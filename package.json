@@ -1,0 +1,19 @@
+{
+  "name": "vue3_vite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "element-plus": "^1.0.2-beta.36",
+    "file-saver": "^2.0.5",
+    "vue": "^3.0.4",
+    "xlsx": "^0.16.9"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "script-loader": "^0.7.2",
+    "vite": "^1.0.0-rc.13"
+  }
+}
